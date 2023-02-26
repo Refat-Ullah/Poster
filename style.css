@@ -8,12 +8,33 @@
 .container{
     width: 350px;
     height: 800px;
-    background-color: rgba(67, 64, 64, 0.216);
+    background-color: rgba(0, 0, 0, 0.798); 
     margin: 100px auto;
     padding: 20px;
+    border-radius: 10px;
 }
 .img{
     width: 390px;
     height: 479px;
     margin-left: -20px;   
 }
+.title{
+    margin-bottom: 10px;
+}
+.title h1{
+    color: white;
+    font-size: 2rem;
+}
+.title p{
+    color: white;
+}
+.description a{
+text-decoration: none;
+background-color: rgba(32, 30, 30, 0.759);
+color: white;
+padding: 3px 5px 3px 5px;
+border-radius: 10px;
+outline: 0.1px solid rgb(184, 183, 183);
+margin-right: 20px;
+}
+

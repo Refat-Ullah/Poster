@@ -32,9 +32,15 @@
 text-decoration: none;
 background-color: rgba(32, 30, 30, 0.759);
 color: white;
-padding: 3px 5px 3px 5px;
-border-radius: 10px;
-outline: 0.1px solid rgb(184, 183, 183);
-margin-right: 20px;
+padding: 3px 6px 3px 6px;
+border-radius: 15px;
+outline: 0.1px solid rgb(141, 139, 139);
+margin-right: 15px;
 }
 
+.description a:hover{
+    background-color: rgb(59, 58, 58);
+}
+.about p{
+    color: white;
+}
